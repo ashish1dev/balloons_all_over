@@ -2,7 +2,7 @@
 
 $(window).load(function(){
 
-var host="http://tettra.in/balloons_all_over/";
+var host="";
 
 $("#balloons_all_over").html("<img src='"+host+"balloons/blue.png' style='position:absolute;' id='_1' alt='_1'/><img src='"+host+"balloons/green.png' style='position:absolute;' id='_2' alt='_2'/><img src='"+host+"balloons/pink.png' style='position:absolute;' id='_3' alt='_3'/><img src='"+host+"balloons/red.png' style='position:absolute;' id='_4' alt='_4'/><img src='"+host+"balloons/yellow.png' style='position:absolute;' id='_5' alt='_5'/><img src='"+host+"balloons/green_light.png' style='position:absolute;' id='_6' alt='_6'/><img src='"+host+"balloons/blue_light.png' style='position:absolute;' id='_7' alt='_7'/><img src='"+host+"balloons/blue.png' style='position:absolute;' id='_8' alt='_8'/><img src='"+host+"balloons/green.png' style='position:absolute;' id='_9' alt='_9'/><img src='"+host+"balloons/pink.png' style='position:absolute;' id='_10' alt='_10'/><img src='"+host+"balloons/red.png' style='position:absolute;' id='_11' alt='_11'/><img src='"+host+"balloons/yellow.png' style='position:absolute;' id='_12' alt='_12'/><img src='"+host+"balloons/green_light.png' style='position:absolute;' id='_13' alt='_13'/><img src='"+host+"balloons/blue_light.png' style='position:absolute;' id='_14' alt='_14'/>");
 
